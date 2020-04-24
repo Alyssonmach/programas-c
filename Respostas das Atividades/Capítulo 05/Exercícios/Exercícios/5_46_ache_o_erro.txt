@@ -1,0 +1,34 @@
+5_46
+
+Encontrando os dois erros:
+
+a)
+
+Na definição da função, não foi especificado o tipo
+da variável que ela retornará.
+
+b)
+
+A combinação dos tipos de variáveis register auto 
+não está definida.
+
+c)
+
+Uma variável não pode receber um gerador de semente,
+mas sim o produto dele.
+
+d)
+
+Há uma incoerência nos tipos das variáveis. Uma
+variável int não recebe adequadamente outra
+variável double;
+
+e) 
+
+a variável number já foi inicializada no tópico da
+função, não precisa ser inicializada dentro dela.
+
+f)
+
+A soma na álgebra precisa de mais de um termo para
+existir, coisa que não acontece nesta função.

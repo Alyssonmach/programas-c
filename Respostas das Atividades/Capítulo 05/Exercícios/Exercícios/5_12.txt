@@ -1,0 +1,22 @@
+5.12
+a)Escolher números aleatórias significa gerar uma 
+semente no computador de forma que os números escolhidos
+e referenciados a alguma sistema do computado,será 
+o princípiodo para que números sejam gerados a partir
+desse ponto.
+
+b) a função rand é ótima para jogos de azar por esse
+tratar da probabilidade de um determinado número cair
+e, dessa forma, ser possível escolher um número adequado.
+
+c) o srand é perfeito para randomizar a partir de um
+número não previsível. Mas quando desejamos ter uma
+sequência em mente, ele não é adequada.
+
+d) devemos escalar os valores produzidos por rand
+por ela ser previsível.
+
+e) a simulação computadorizada de situações reais
+é útil para evitar que trabalhos extensos sejam
+mobilizados, já que o computador é capaz de calcular
+em menos de 1 segundo.
