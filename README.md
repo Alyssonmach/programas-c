@@ -5,3 +5,5 @@ Este repositório tem a finalidade educativa de mostrar possíveis soluções pa
 
 - Se você possui alguma sugestão, reclamação ou elogio, entre em contato com o meu e-mail:
 > <a href = "mailto:alyssonmachado388@gmail.com" target = "_blank">E-mail para Contato</a>.
+
+- <a href = "https://github.com/Alyssonmach/Programas-em-C/archive/master.zip" target = "_blank">Baixe os arquivos .zip</a>.
