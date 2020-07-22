@@ -25,7 +25,7 @@ Este repositório tem a finalidade educativa de mostrar possíveis soluções pa
 |[Capítulo 06](https://github.com/Alyssonmach/Programas-em-C/tree/master/Arquivo%2002%20-%20Como%20Programar%20em%20C%20(Deitel)/Cap%C3%ADtulo%2006)|
 |[Capítulo 07](https://github.com/Alyssonmach/Programas-em-C/tree/master/Arquivo%2002%20-%20Como%20Programar%20em%20C%20(Deitel)/Cap%C3%ADtulo%2007)|
 
-- Programa Conversos de bases para auxiliar a cadeira **Circuitos Lógicos** da UFCG.
+- Programa Conversor de bases para auxiliar a cadeira **Circuitos Lógicos** da UFCG.
 
 |**Tópicos Abordados**|
 |:--------------------|
