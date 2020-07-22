@@ -32,12 +32,6 @@ Este repositório tem a finalidade educativa de mostrar possíveis soluções pa
 |[Programa Conversos de Bases](https://github.com/Alyssonmach/Programas-em-C/blob/master/Arquivo%2003%20-%20Conversor%20de%20Bases/conversordebases.c)|
 |[Leia-me](https://github.com/Alyssonmach/Programas-em-C/blob/master/Arquivo%2003%20-%20Conversor%20de%20Bases/README.md)|
 
-### Fotos Ilustrativas do Projeto
-
-![programas-deitel](https://github.com/Alyssonmach/Programas-em-C/blob/master/Imagens/flyer1.png)
-![programas-apontadores](https://github.com/Alyssonmach/Programas-em-C/blob/master/Imagens/flyer2.png)
-![conversor-de-bases](https://github.com/Alyssonmach/Programas-em-C/blob/master/Imagens/flyer3.png)
-
 ### Alguma Dúvida? Entre em Contato Comigo:
 
 - [Me envie um e-mail](mailto:alysson.barbosa@ee.ufcg.edu.br);
