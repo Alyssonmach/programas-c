@@ -36,7 +36,7 @@ Este repositório tem a finalidade educativa de mostrar possíveis soluções pa
 
 ![programas-deitel](https://github.com/Alyssonmach/Programas-em-C/blob/master/Imagens/flyer1.png)
 ![programas-apontadores](https://github.com/Alyssonmach/Programas-em-C/blob/master/Imagens/flyer2.png)
-![conversor de bases](https://github.com/Alyssonmach/Programas-em-C/blob/master/Imagens/flyer3.png)
+![conversor-de-bases](https://github.com/Alyssonmach/Programas-em-C/blob/master/Imagens/flyer3.png)
 
 ### Alguma Dúvida? Entre em Contato Comigo:
 
