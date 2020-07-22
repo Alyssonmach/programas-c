@@ -39,8 +39,6 @@ Este repositório tem a finalidade educativa de mostrar possíveis soluções pa
 ![programas-apontadores](https://github.com/Alyssonmach/Programas-em-C/blob/master/Imagens/flyer2.png)
 ![conversor-de-bases](https://github.com/Alyssonmach/Programas-em-C/blob/master/Imagens/flyer3.png)
 
-=======
->>>>>>> 5bd7049205b821d7eeaa4ec16bbc0867c15c483c
 ### Alguma Dúvida? Entre em Contato Comigo:
 
 - [Me envie um e-mail](mailto:alysson.barbosa@ee.ufcg.edu.br);
