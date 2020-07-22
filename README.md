@@ -9,35 +9,35 @@ Este repositório tem a finalidade educativa de mostrar possíveis soluções pa
 
 |**Tópicos Abordados**|
 |:--------------------|
-|[Primeiro Estágio]()|
-|[Segundo Estágio]()|
-|[Terceiro Estágio]()|
+|[Primeiro Estágio](https://github.com/Alyssonmach/Programas-em-C/tree/master/Arquivo%2001%20-%20Listas%20de%20Atividades/Primeiro%20Est%C3%A1gio)|
+|[Segundo Estágio](https://github.com/Alyssonmach/Programas-em-C/tree/master/Arquivo%2001%20-%20Listas%20de%20Atividades/Segundo%20Est%C3%A1gio)|
+|[Terceiro Estágio](https://github.com/Alyssonmach/Programas-em-C/tree/master/Arquivo%2001%20-%20Listas%20de%20Atividades/Terceiro%20Est%C3%A1gio)|
 
 - Exercícios Resolvidos do Livro "**Como Programar em C**" do Autor Deitel.
 
 |**Tópicos Abordados**|
 |:--------------------|
-|[Capítulo 01]()|
-|[Capítulo 02]()|
-|[Capítulo 03]()|
-|[Capítulo 04]()|
-|[Capítulo 05]()|
-|[Capítulo 06]()|
-|[Capítulo 07]()|
+|[Capítulo 01](https://github.com/Alyssonmach/Programas-em-C/tree/master/Arquivo%2002%20-%20Como%20Programar%20em%20C%20(Deitel)/Cap%C3%ADtulo%2001)|
+|[Capítulo 02](https://github.com/Alyssonmach/Programas-em-C/tree/master/Arquivo%2002%20-%20Como%20Programar%20em%20C%20(Deitel)/Cap%C3%ADtulo%2002)|
+|[Capítulo 03](https://github.com/Alyssonmach/Programas-em-C/tree/master/Arquivo%2002%20-%20Como%20Programar%20em%20C%20(Deitel)/Cap%C3%ADtulo%2003)|
+|[Capítulo 04](https://github.com/Alyssonmach/Programas-em-C/tree/master/Arquivo%2002%20-%20Como%20Programar%20em%20C%20(Deitel)/Cap%C3%ADtulo%2004)|
+|[Capítulo 05](https://github.com/Alyssonmach/Programas-em-C/tree/master/Arquivo%2002%20-%20Como%20Programar%20em%20C%20(Deitel)/Cap%C3%ADtulo%2005)|
+|[Capítulo 06](https://github.com/Alyssonmach/Programas-em-C/tree/master/Arquivo%2002%20-%20Como%20Programar%20em%20C%20(Deitel)/Cap%C3%ADtulo%2006)|
+|[Capítulo 07](https://github.com/Alyssonmach/Programas-em-C/tree/master/Arquivo%2002%20-%20Como%20Programar%20em%20C%20(Deitel)/Cap%C3%ADtulo%2007)|
 
 - Programa Conversos de bases para auxiliar a cadeira **Circuitos Lógicos** da UFCG.
 
 |**Tópicos Abordados**|
 |:--------------------|
-|[Programa Conversos de Bases]()|
-|[Leia-me]()|
+|[Programa Conversos de Bases](https://github.com/Alyssonmach/Programas-em-C/blob/master/Arquivo%2003%20-%20Conversor%20de%20Bases/conversordebases.c)|
+|[Leia-me](https://github.com/Alyssonmach/Programas-em-C/blob/master/Arquivo%2003%20-%20Conversor%20de%20Bases/README.md)|
 
 ### Fotos Ilustrativas do Projeto
 
-![primeiro-estagio]
-![programas-deitel]
-![programas-apontadores]
-![conversor de bases]
+![primeiro-estagio](https://github.com/Alyssonmach/Programas-em-C/blob/master/Imagens/flyer1.png)
+![programas-deitel](https://github.com/Alyssonmach/Programas-em-C/blob/master/Imagens/flyer2.png)
+![programas-apontadores](https://github.com/Alyssonmach/Programas-em-C/blob/master/Imagens/flyer3.png)
+![conversor de bases](https://github.com/Alyssonmach/Programas-em-C/blob/master/Imagens/flyer4.png)
 
 ### Alguma Dúvida? Entre em Contato Comigo:
 
